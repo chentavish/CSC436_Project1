@@ -24,4 +24,4 @@ Other useful commands:
 - `npm run preview` — preview the production build locally
 - `npm run lint` — run oxlint
 
-Live URL: TODO — add once deployed.
+Live URL: https://chentproject1.netlify.app/
